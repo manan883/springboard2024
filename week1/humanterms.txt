@@ -1,0 +1,3 @@
+Describe 5.432e14 usec in human terms.  Show your work.
+
+5.432e14 is a very large number. That many bytes can hold on average 500,000 songs on a device. It is one magnitude above 1 Tera. 5.432e14 seconds is 17 millions years which is a more understandable number for most people.
