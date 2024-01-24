@@ -1,0 +1,67 @@
+Solve for x:
+(a - b*c^((d - e*x)^2))/f = g
+Show your work, and justify each step.
+
+                        2
+           ((d - e * x)^ )
+(a - b * c^
+-------------------------- = g
+           f
+
+                        2
+           ((d - e * x)^ )
+a - b * c^                 = f * g             get f to the other side its fastest
+
+
+                    2
+       ((d - e * x)^ )
+-b * c^                = (f*g) - a         get a because its the next fastest
+
+
+                2
+   ((d - e * x)^ )
+c^                 = (f*g) - a 
+                     -----------       divide by b to isolate c
+                          -b
+
+
+
+                   2
+      ((d - e * x)^ )
+log c^                 =     (f*g) - a 
+   c                    log  -----------       use log base c to isolate the exponent on the left. log base N of N is 1
+                           c     -b
+
+
+                  
+                  2             (f*g) - a 
+    ((d - e * x) ^ )  =  log  -----------       
+                            c     -b
+
+
+                       ----------------------
+                        |        (f*g) - a 
+    ((d - e * x))     = | log  -----------               square root to get rid of the square on the left  
+                        |    c     -b
+                     ---|
+
+
+
+                      ----------------------
+                        |        (f*g) - a 
+    -e * x            = | log  -----------    - d       subtract d to isolate -ex      
+                        |    c     -b
+                     ---|
+
+
+
+                      ----------------------
+                        |        (f*g) - a 
+    x                 = | log  -----------    - d       divide everything by -e to isolate x      
+                        |    c     -b
+                     ---|
+                     -----------------------------
+                                   -e
+
+
+
