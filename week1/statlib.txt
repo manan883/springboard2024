@@ -1,0 +1,8 @@
+The Statue of Liberty(SL) is 305 feet tall. 
+The distance from the Earth to the Moon is 384.4 Mm.  
+What is the distance from Earth to the Moon in Statues of Liberty?  Show your work.
+
+
+1 SL     3.28 ft   1000000 m     384.4Mm
+----- * -------- * --------- * ----------- = 4133875.41 SL
+305ft    1 m          1Mm          1
